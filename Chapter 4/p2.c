@@ -10,22 +10,10 @@ int main()
           {
               continue;
           }
-
           printf("%d\n",n);
       }
 
-
-
-
-
   }
-
-
-
-
-
-
-
 
 
 }
